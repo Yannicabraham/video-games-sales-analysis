@@ -37,6 +37,6 @@ The dataset includes detailed sales data for thousands of video games, with the 
 
 ## 🎓 Project Background
 
-> 📘 **Note:** This repository includes two separat proejcts on the identical dataset.
-> [Video_gaming_sales](https://github.com/Yannicabraham/video-games-sales-analysis/blob/main/Video_gaming_sales.ipynb):This project was completed as part of my Data Analyst certification. It served to apply EDA techniques, uncover business-relevant insights, and practice presenting findings with data storytelling.
+> 📘 **Note:** This repository includes two separat proejcts on the identical dataset.  
+> [Video_gaming_sales](https://github.com/Yannicabraham/video-games-sales-analysis/blob/main/Video_gaming_sales.ipynb): This project was completed as part of my Data Analyst certification. It served to apply EDA techniques, uncover business-relevant insights, and practice presenting findings with data storytelling.  
 > [video_games_portfolio](https://github.com/Yannicabraham/video-games-sales-analysis/blob/main/video_games_portfolio.ipynb): This is a dedicated portfolio project of mine, which exceeds the certificate notebook. It is also accompanied by a Power BI dashboard.
